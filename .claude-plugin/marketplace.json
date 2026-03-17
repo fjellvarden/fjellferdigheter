@@ -1,0 +1,89 @@
+{
+  "name": "fjellferdigheter",
+  "owner": {
+    "name": "Fjellvarden",
+    "email": "hei@fjellvarden.no"
+  },
+  "plugins": [
+    {
+      "name": "save-notes",
+      "description": "Make important notes from the current chat and save them to CLAUDE.md for future help",
+      "type": "command"
+    },
+    {
+      "name": "kunde-intervju",
+      "description": "Strukturert kundeintervju for å kartlegge tjenester, konkurrenter og markedsposisjon",
+      "type": "skill"
+    },
+    {
+      "name": "tjenestelister",
+      "description": "Research og kartlegg alle tjenester i en bransje via konkurrentanalyse",
+      "type": "skill"
+    },
+    {
+      "name": "tjeneste-gruppering",
+      "description": "Grupper tjenester og definer sidestruktur for nettsiden",
+      "type": "skill"
+    },
+    {
+      "name": "innhold-research",
+      "description": "Samle inn kilder, faginnhold og research for tjenestesider",
+      "type": "skill"
+    },
+    {
+      "name": "seo-research",
+      "description": "SEO-analyse med søkeord, søkevolum og konkurrentdata",
+      "type": "skill"
+    },
+    {
+      "name": "outline-review",
+      "description": "Lag og godkjenn artikkeloutline før skriving",
+      "type": "skill"
+    },
+    {
+      "name": "tjenesteside-utkast",
+      "description": "Skriv første utkast av tjenesteside basert på research og outline",
+      "type": "skill"
+    },
+    {
+      "name": "innhold-review",
+      "description": "Kvalitetsjekk av innhold — plagiat, fakta, kundereise og målgruppe",
+      "type": "skill"
+    },
+    {
+      "name": "innhold-polish",
+      "description": "Fjern AI-skriveri og poler språket til varmt, menneskelig norsk",
+      "type": "skill"
+    },
+    {
+      "name": "design-review",
+      "description": "Visuell gjennomgang av layout og design på desktop, tablet og mobil",
+      "type": "skill"
+    },
+    {
+      "name": "kode-forenkling",
+      "description": "Rydd opp kildekode — fjern duplikater, bruk globale stiler",
+      "type": "skill"
+    },
+    {
+      "name": "seo-metadata",
+      "description": "Schema markup, title tags, meta descriptions og teknisk SEO",
+      "type": "skill"
+    },
+    {
+      "name": "intern-linking",
+      "description": "Koble ny tjenesteside inn i nettstedets interne lenkestruktur",
+      "type": "skill"
+    },
+    {
+      "name": "kunde-epost",
+      "description": "Skriv e-post til kunden om ferdigstilte tjenestesider",
+      "type": "skill"
+    },
+    {
+      "name": "tjenesteside-pipeline",
+      "description": "Master-kommando som kjører hele tjenesteside-prosessen fra start til slutt",
+      "type": "command"
+    }
+  ]
+}
